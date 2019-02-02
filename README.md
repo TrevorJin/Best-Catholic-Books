@@ -25,6 +25,7 @@ Grow your spiritual life.
 | The Soul of The Apostolate | Jean-Baptiste Chautard, O.C.S.O. | [4.55](https://www.goodreads.com/book/show/753243.The_Soul_of_The_Apostolate) | 1898 | [TAN Books](https://amzn.to/2sXWbQW)
 | Story of a Soul | St. Thérèse of Lisieux | [4.39](https://www.goodreads.com/book/show/754771.Story_of_a_Soul) | 1898 | [TAN Books](https://amzn.to/2UA0Xj7)
 | Introduction to the Devout Life | St. Francis de Sales | [4.39](https://www.goodreads.com/book/show/398834.Introduction_to_the_Devout_Life) | 1619 | [TAN Classics](https://amzn.to/2GfMuoC)
+| Mere Christianity | C.S. Lewis | [4.32](https://www.goodreads.com/book/show/11138.Mere_Christianity) | 1952 | [HarperOne](https://amzn.to/2G5sGoX)
 | The Practice of the Presence of God | Br. Lawrence | [4.29](https://www.goodreads.com/book/show/498641.The_Practice_of_the_Presence_of_God) | 1693 | [Image Books](https://amzn.to/2WxPwue)
 | The Imitation of Christ | Thomas à Kempis | [4.19](https://www.goodreads.com/book/show/851393.The_Imitation_of_Christ) | c. 1418–1427 | [Ave Maria Press](https://amzn.to/2G69ze7)
 | Dark Night of the Soul | St. John of the Cross | [4.19](https://www.goodreads.com/book/show/30218147-dark-night-of-the-soul?ac=1&from_search=true) | c. 1578 | [Dover Publications](https://amzn.to/2TmWX5v)

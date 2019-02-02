@@ -32,7 +32,8 @@ Grow your spiritual life.
 ## Meditations
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
-| Divine Intimacy | Gabriel of St. Mary Magdalen, O.C.D. | [4.79](https://www.goodreads.com/book/show/724457.Divine_Intimacy) | 1997 | [TAN Books](https://amzn.to/2WCnopT)
+| Divine Intimacy | Gabriel of St. Mary Magdalen, O.C.D. | [4.79](https://www.goodreads.com/book/show/724457.Divine_Intimacy) | 1964 | [TAN Books](https://amzn.to/2WCnopT)
+| In Conversation with God | Fr. Francis Fernandez | [4.76](https://www.goodreads.com/book/show/15026.In_Conversation_with_God?from_search=true) | 1988 | [Scepter Publishers](https://amzn.to/2G7jAaX)
 
 ## Marian Literature
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

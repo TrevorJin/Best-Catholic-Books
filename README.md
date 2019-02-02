@@ -14,6 +14,7 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | Searching for and Maintaining Peace: A Small Treatise on Peace of Heart | Fr. Jacques Philippe | [4.73](https://www.goodreads.com/book/show/1236244.Searching_for_and_Maintaining_Peace?from_search=true) | 1991 | [Alba House](https://amzn.to/2WCzC1z)
 | Interior Freedom | Fr. Jacques Philippe | [4.67](https://www.goodreads.com/book/show/992078.Interior_Freedom) | 2002 | [Scepter Publishers](https://amzn.to/2t03EPl)
+| Deep Conversion, Deep Prayer | Fr. Thomas Dubay, S.M. | [4.42](https://www.goodreads.com/book/show/324253.Deep_Conversion_Deep_Prayer) | 2006 | [Ignatius Press](https://amzn.to/2HNTagi)
 
 ## Spiritual Classics
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

@@ -6,6 +6,7 @@ Grow your spiritual life.
 ## Table of Contents
 * [Spiritual Classics](#spiritual-classics)
 * [Marian Literature](#marian-literature)
+* [Reference](#reference)
 
 ## Spiritual Classics
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
@@ -18,3 +19,8 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
 | True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
+
+## Reference
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| Catechism of the Catholic Church | United States Conference of Catholic Bishops | [4.41](https://www.goodreads.com/book/show/110795.Catechism_of_the_Catholic_Church) | 1995 | [USCCB Publishing](https://amzn.to/2WDb6gL)

@@ -59,6 +59,7 @@ Grow your spiritual life.
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
 | Making Missionary Disciples | Curtis Martin | [4.24](https://www.goodreads.com/book/show/42298390-making-missionary-disciples) | 2018 | [FOCUS](https://amzn.to/2GjqzNs)
+| Forming Intentional Disciples: The Path to Knowing and Following Jesus | Sherry A. Weddell | [4.19](https://www.goodreads.com/book/show/15096911-forming-intentional-disciples) | 2012 | [Our Sunday Visitor](https://amzn.to/2WBIlRE)
 
 ## Explaining the Faith
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

@@ -28,6 +28,7 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | Uniformity with God's Will | St. Alphonsus de Liguori | [4.64](https://www.goodreads.com/book/show/1590924.Uniformity_with_God_s_Will) | c. 1755 | [TAN Books](https://amzn.to/2Sl7GA9)
 | The Soul of The Apostolate | Jean-Baptiste Chautard, O.C.S.O. | [4.55](https://www.goodreads.com/book/show/753243.The_Soul_of_The_Apostolate) | 1898 | [TAN Books](https://amzn.to/2sXWbQW)
+| Abandonment to Divine Providence | Jean-Pierre de Caussade | [4.41](https://www.goodreads.com/book/show/1603615.Abandonment_to_Divine_Providence) | 1861 | [Image Classics](https://amzn.to/2D77PxD)
 | Story of a Soul | St. Thérèse of Lisieux | [4.39](https://www.goodreads.com/book/show/754771.Story_of_a_Soul) | 1898 | [TAN Books](https://amzn.to/2UA0Xj7)
 | Introduction to the Devout Life | St. Francis de Sales | [4.39](https://www.goodreads.com/book/show/398834.Introduction_to_the_Devout_Life) | 1619 | [TAN Classics](https://amzn.to/2GfMuoC)
 | Mere Christianity | C.S. Lewis | [4.32](https://www.goodreads.com/book/show/11138.Mere_Christianity) | 1952 | [HarperOne](https://amzn.to/2G5sGoX)

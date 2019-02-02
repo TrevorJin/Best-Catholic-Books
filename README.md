@@ -8,6 +8,7 @@ Grow your spiritual life.
 * [Spiritual Classics](#spiritual-classics)
 * [Meditations](#meditations)
 * [Marian Literature](#marian-literature)
+* [Sacraments](#sacraments)
 * [Reference](#reference)
 
 ## Prayer
@@ -41,6 +42,11 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
 | True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
+
+## Sacraments
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
 
 ## Reference
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

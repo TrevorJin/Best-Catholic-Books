@@ -9,6 +9,7 @@ Grow your spiritual life.
 * [Meditations](#meditations)
 * [Marian Literature](#marian-literature)
 * [Sacraments](#sacraments)
+* [Church History](#church-history)
 * [Reference](#reference)
 
 ## Prayer
@@ -48,6 +49,11 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | The Fourth Cup: Unveiling the Mystery of the Last Supper and the Cross | Scott Hahn | [4.59](https://www.goodreads.com/book/show/35198961-the-fourth-cup?from_search=true) | 2018 | [Image Books](https://amzn.to/2I08M0r)
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
+
+## Church History
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| How the Catholic Church Built Western Civilization | Thomas E. Woods Jr. | [4.12](https://www.goodreads.com/book/show/313011.How_the_Catholic_Church_Built_Western_Civilization) | 2005 | [Regnery History](https://amzn.to/2TtSQVh)
 
 ## Reference
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

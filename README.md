@@ -9,6 +9,7 @@ Grow your spiritual life.
 * [Meditations](#meditations)
 * [Marian Literature](#marian-literature)
 * [Sacraments](#sacraments)
+* [Explaining the Faith](#explaining-the-faith)
 * [For Protestants](#for-protestants)
 * [Church History](#church-history)
 * [Reference](#reference)
@@ -53,6 +54,10 @@ Grow your spiritual life.
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
 | A Biblical Walk Through the Mass: Understanding What We Say and Do In The Liturgy | Edward Sri | [4.38](https://www.goodreads.com/book/show/10155607-a-biblical-walk-through-the-mass) | 2011 | [Ascension Press](https://amzn.to/2Tv8tfa)
 
+## Explaining the Faith
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| Why We're Catholic: Our Reasons for Faith, Hope, and Love | Trent Horn | [4.38](https://www.goodreads.com/book/show/34415843-why-we-re-catholic) | 2017 | [Catholic Answers Press](https://amzn.to/2GjkJLW)
 
 ## For Protestants
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

@@ -7,8 +7,8 @@ Grow your spiritual life.
 * [Prayer](#prayer)
 * [Spiritual Classics](#spiritual-classics)
 * [Meditations](#meditations)
-* [Marian Literature](#marian-literature)
 * [Sacraments](#sacraments)
+* [Mary](#mary)
 * [Discipleship](#discipleship)
 * [Explaining the Faith](#explaining-the-faith)
 * [For Protestants](#for-protestants)
@@ -41,12 +41,6 @@ Grow your spiritual life.
 | Divine Intimacy | Gabriel of St. Mary Magdalen, O.C.D. | [4.79](https://www.goodreads.com/book/show/724457.Divine_Intimacy) | 1964 | [TAN Books](https://amzn.to/2WCnopT)
 | In Conversation with God | Fr. Francis Fernandez | [4.76](https://www.goodreads.com/book/show/15026.In_Conversation_with_God) | 1988 | [Scepter Publishers](https://amzn.to/2G7jAaX)
 
-## Marian Literature
-| Name | Author | Goodreads Rating | Year Published | Amazon |  
-|------|--------|------------------|----------------|--------|  
-| 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
-| True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
-
 ## Sacraments
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
@@ -54,6 +48,12 @@ Grow your spiritual life.
 | Jesus and the Jewish Roots of the Eucharist: Unlocking the Secrets of the Last Supper | Brant Pitre | [4.57](https://www.goodreads.com/book/show/8427566-jesus-and-the-jewish-roots-of-the-eucharist) | 2011 | [Image Books](https://amzn.to/2G7GRd7)
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
 | A Biblical Walk Through the Mass: Understanding What We Say and Do In The Liturgy | Edward Sri | [4.38](https://www.goodreads.com/book/show/10155607-a-biblical-walk-through-the-mass) | 2011 | [Ascension Press](https://amzn.to/2Tv8tfa)
+
+## Mary
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
+| True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
 
 ## Discipleship
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

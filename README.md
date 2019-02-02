@@ -46,6 +46,7 @@ Grow your spiritual life.
 ## Sacraments
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
+| The Fourth Cup: Unveiling the Mystery of the Last Supper and the Cross | Scott Hahn | [4.59](https://www.goodreads.com/book/show/35198961-the-fourth-cup?from_search=true) | 2018 | [Image Books](https://amzn.to/2I08M0r)
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
 
 ## Reference

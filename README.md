@@ -58,6 +58,7 @@ Grow your spiritual life.
 ## Discipleship
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
+| Into His Likeness: Be Transformed as a Disciple of Christ | Edward Sri | [4.50](https://www.goodreads.com/book/show/36912172-into-his-likeness) | 2018 | [Ignatius Press](https://amzn.to/2t3BAuA)
 | Making Missionary Disciples | Curtis Martin | [4.24](https://www.goodreads.com/book/show/42298390-making-missionary-disciples) | 2018 | [FOCUS](https://amzn.to/2GjqzNs)
 | Forming Intentional Disciples: The Path to Knowing and Following Jesus | Sherry A. Weddell | [4.19](https://www.goodreads.com/book/show/15096911-forming-intentional-disciples) | 2012 | [Our Sunday Visitor](https://amzn.to/2WBIlRE)
 

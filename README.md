@@ -51,6 +51,8 @@ Grow your spiritual life.
 | The Fourth Cup: Unveiling the Mystery of the Last Supper and the Cross | Scott Hahn | [4.59](https://www.goodreads.com/book/show/35198961-the-fourth-cup) | 2018 | [Image Books](https://amzn.to/2I08M0r)
 | Jesus and the Jewish Roots of the Eucharist: Unlocking the Secrets of the Last Supper | Brant Pitre | [4.57](https://www.goodreads.com/book/show/8427566-jesus-and-the-jewish-roots-of-the-eucharist) | 2011 | [Image Books](https://amzn.to/2G7GRd7)
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
+| A Biblical Walk Through the Mass: Understanding What We Say and Do In The Liturgy | Edward Sri | [4.38](https://www.goodreads.com/book/show/10155607-a-biblical-walk-through-the-mass) | 2011 | [Ascension Press](https://amzn.to/2Tv8tfa)
+
 
 ## For Protestants
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

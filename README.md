@@ -9,6 +9,7 @@ Grow your spiritual life.
 * [Meditations](#meditations)
 * [Marian Literature](#marian-literature)
 * [Sacraments](#sacraments)
+* [Discipleship](#discipleship)
 * [Explaining the Faith](#explaining-the-faith)
 * [For Protestants](#for-protestants)
 * [Church History](#church-history)
@@ -53,6 +54,11 @@ Grow your spiritual life.
 | Jesus and the Jewish Roots of the Eucharist: Unlocking the Secrets of the Last Supper | Brant Pitre | [4.57](https://www.goodreads.com/book/show/8427566-jesus-and-the-jewish-roots-of-the-eucharist) | 2011 | [Image Books](https://amzn.to/2G7GRd7)
 | The Lamb's Supper: The Mass as Heaven on Earth | Scott Hahn | [4.38](https://www.goodreads.com/book/show/28883.The_Lamb_s_Supper) | 1999 | [Doubleday](https://amzn.to/2Uzlt3q)
 | A Biblical Walk Through the Mass: Understanding What We Say and Do In The Liturgy | Edward Sri | [4.38](https://www.goodreads.com/book/show/10155607-a-biblical-walk-through-the-mass) | 2011 | [Ascension Press](https://amzn.to/2Tv8tfa)
+
+## Discipleship
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| Making Missionary Disciples | Curtis Martin | [4.24](https://www.goodreads.com/book/show/42298390-making-missionary-disciples) | 2018 | [FOCUS](https://amzn.to/2GjqzNs)
 
 ## Explaining the Faith
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

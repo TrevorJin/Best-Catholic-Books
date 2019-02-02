@@ -16,5 +16,5 @@ Grow your spiritual life.
 ## Marian Literature
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
+| 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
 | True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
-| The Imitation of Christ | Thomas à Kempis | [4.19](https://www.goodreads.com/book/show/851393.The_Imitation_of_Christ) | c. 1418–1427 | [Ave Maria Press](https://amzn.to/2G69ze7)

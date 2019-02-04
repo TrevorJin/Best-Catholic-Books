@@ -26,6 +26,7 @@ Grow your spiritual life.
 ## Spiritual Classics
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
+| The Way, Furrow, The Forge | St. Josemaría Escrivá | [4.67](https://www.goodreads.com/book/show/904852.The_Way_Furrow_The_Forge) | 1939 | [Scepter Publications](https://amzn.to/2Gl1MbL)
 | Uniformity with God's Will | St. Alphonsus de Liguori | [4.64](https://www.goodreads.com/book/show/1590924.Uniformity_with_God_s_Will) | c. 1755 | [TAN Books](https://amzn.to/2Sl7GA9)
 | The Soul of The Apostolate | Jean-Baptiste Chautard, O.C.S.O. | [4.55](https://www.goodreads.com/book/show/753243.The_Soul_of_The_Apostolate) | 1898 | [TAN Books](https://amzn.to/2sXWbQW)
 | Diary of Saint Maria Faustina Kowalska: Divine Mercy in My Soul | St. Maria Faustina Kowalska | [4.54](https://www.goodreads.com/book/show/243427.Diary_of_Saint_Maria_Faustina_Kowalska) | 1981 | [Marian Press](https://amzn.to/2MNryqh)

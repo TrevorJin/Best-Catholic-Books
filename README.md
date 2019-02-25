@@ -58,7 +58,9 @@ Grow your spiritual life.
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
 | 33 Days to Morning Glory | Fr. Michael Gaitley | [4.55](https://www.goodreads.com/book/show/13559128-33-days-to-morning-glory) | 2011 | [Marian Press](https://amzn.to/2MKzGrM)
+| The Secret of Mary | St. Louis-Marie de Montfort | [4.51](https://www.goodreads.com/book/show/1992678.The_Secret_of_Mary) | 1947 | [TAN Classics](https://amzn.to/2U42ZbG)
 | True Devotion to Mary | St. Louis-Marie de Montfort | [4.49](https://www.goodreads.com/book/show/71653.True_Devotion_to_Mary) | 1843 | [TAN Classics](https://amzn.to/2UxyieH)
+| Hail, Holy Queen: The Mother of God in the Word of God | Scott Hahn | [4.32](https://www.goodreads.com/book/show/402826.Hail_Holy_Queen) | 2006 | [Image Books](https://amzn.to/2H1Yf2v)
 
 ## Discipleship
 | Name | Author | Goodreads Rating | Year Published | Amazon |  

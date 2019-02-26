@@ -72,6 +72,7 @@ Grow your spiritual life.
 ## Explaining the Faith
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  
+| Catholicism: A Journey to the Heart of the Faith | Bishop Robert Barron | [4.51](https://www.goodreads.com/book/show/11631101-catholicism) | 2011 | [Image Books](https://amzn.to/2BV16H5)
 | Why We're Catholic: Our Reasons for Faith, Hope, and Love | Trent Horn | [4.38](https://www.goodreads.com/book/show/34415843-why-we-re-catholic) | 2017 | [Catholic Answers Press](https://amzn.to/2GjkJLW)
 
 ## For Protestants

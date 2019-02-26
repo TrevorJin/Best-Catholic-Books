@@ -79,6 +79,11 @@ Grow your spiritual life.
 |------|--------|------------------|----------------|--------|  
 | Rome Sweet Home: Our Journey to Catholicism | Scott and Kimberly Hahn | [4.34](https://www.goodreads.com/book/show/68538.Rome_Sweet_Home) | 1993 | [Ignatius Press](https://amzn.to/2TsJVnd)
 
+## Saints
+| Name | Author | Goodreads Rating | Year Published | Amazon |  
+|------|--------|------------------|----------------|--------|  
+| Witness to Hope: The Biography of Pope John Paul II | George Weigel | [4.36](https://www.goodreads.com/book/show/276379.Witness_to_Hope) | 2005 | [Harper Perennial](https://amzn.to/2EiKVUf)
+
 ## Church History
 | Name | Author | Goodreads Rating | Year Published | Amazon |  
 |------|--------|------------------|----------------|--------|  

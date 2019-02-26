@@ -12,6 +12,7 @@ Grow your spiritual life.
 * [Discipleship](#discipleship)
 * [Explaining the Faith](#explaining-the-faith)
 * [For Protestants](#for-protestants)
+* [Saints](#saints)
 * [Church History](#church-history)
 * [Reference](#reference)
 
